@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Zaim</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="mag_tel">Телефон</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="bottom_nav_home">Займы</string>
+    <string name="bottom_nav_list">Карты</string>
+    <string name="bottom_nav_fav">Кредиты</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="lbl_price">Price</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="start">Приложение созданно для подбора онлайн кредитов, займов и карт.
+        Используя приложение "Беспроцентные займы онлайн" вы подтверждаете что принимаете и ознакомленны с</string>
+    <string name="checbox">Я принимаю пользовательское соглашение.</string>
+
+
+
+</resources>
